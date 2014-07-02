@@ -2,6 +2,7 @@
 ## 一覧
 |id|title|answer|
 |:--:|:--|:--:|
+|q469|[現在時刻とロケールに依存するテスト](https://codeiq.jp/ace/wada_takuto/q469)|[answer](./q469)|
 |q626|[A+B+Cはいくつ？](https://codeiq.jp/ace/ozy4dm/q626)|[answer](./q626)|
 |q733|[いろいろなアプローチを考える！](https://codeiq.jp/ace/kamimura/q733)|[answer](./q733)|
 |q766|[hello, world × 3](https://codeiq.jp/ace/nabetani_takenori/q766)|[answer](./q766)|
