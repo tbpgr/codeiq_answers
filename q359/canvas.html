@@ -1,0 +1,24 @@
+<html>
+<head>
+  <script type="text/javascript">
+  function draw() {
+    const BLACK_WIDTH = 100;
+    const BLACK_HEIGHT = 100;
+    const RED_WIDTH = 50;
+    const RED_HEIGHT = 50;
+    var canvas = document.getElementById('cv');
+    var ctx = canvas.getContext('2d');
+    ctx.fillRect((canvas.width / 2) - BLACK_WIDTH / 2, (canvas.height / 2) - BLACK_HEIGHT / 2, BLACK_WIDTH, BLACK_HEIGHT);
+    ctx.fillStyle  = "red";
+    ctx.setTransform(1, 0, 0, 1, canvas.width / 2 ,canvas.height / 2);
+    ctx.rotate(45 * Math.PI / 180);
+    ctx.fillRect(-1 * RED_WIDTH / 2, -1 * RED_HEIGHT / 2, RED_WIDTH, RED_HEIGHT);
+  }
+  </script>
+</head>
+<body onload="draw()" style="background-color:#eeeeee;">
+  <canvas id="cv" style="border-style:groove;" width="400" height="400"></canvas>
+  <hr />
+  <div id="debug"></div>
+</body>
+</html>
