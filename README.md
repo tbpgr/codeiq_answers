@@ -2,6 +2,7 @@
 ## 一覧
 |id|title|answer|
 |:--:|:--|:--:|
+|q733|[いろいろなアプローチを考える！](https://codeiq.jp/ace/kamimura/q733)|[answer](./q733)|
 |q766|[hello, world × 3](https://codeiq.jp/ace/nabetani_takenori/q766)|[answer](./q766)|
 |q816|[hybrid A+B problem](https://codeiq.jp/ace/cielavenir/q816)|[answer](./q816)|
 |q856|[ワンライナーでテキスト処理](https://codeiq.jp/ace/hayakawa_atsushi/q856)|[answer](./q856)|
