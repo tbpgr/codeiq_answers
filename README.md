@@ -18,3 +18,4 @@
 |q914|[比較演算子を使わず数字を取り出そう](https://codeiq.jp/ace/masui_yuichiro/q914)|[answer](./q914)|
 |q961|[七夕問題☆牽牛 彦星 牛をもっと飼う](https://codeiq.jp/ace/ozy_hikoboshi/q961)|[answer](./q961)|
 |q1012|[中学入試から：数列の和](https://codeiq.jp/ace/nabetani_takenori/q1012)|[answer](./q1012)|
+|q1263|[FizzBuzzっぽく愛の告白をして](https://codeiq.jp/ace/matthew/q1263)|[answer](./q1263)|
